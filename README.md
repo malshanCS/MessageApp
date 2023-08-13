@@ -23,11 +23,11 @@ This is a messaging app built using React Native and Firebase, specifically Fire
 
 ## Screenshots
 
-![Login Screen](screenshots/login.png)
+<img src="screenshots/login.png" alt="Login Screen" width="300"/>
 _Login Screen_
 
-![Signup Screen](screenshots/signup.png)
-_Chat Screen_
+<img src="screenshots/signup.png" alt="Chat Screen" width="300"/>
+_Signup Screen_
 
 ## Getting Started
 
