@@ -5,6 +5,7 @@ This is a messaging app built using React Native and Firebase, specifically Fire
 ## Table of Contents
 
 - [Features](#features)
+- [Screenshots](#screenshots)
 - [Getting Started](#getting-started)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
@@ -20,6 +21,13 @@ This is a messaging app built using React Native and Firebase, specifically Fire
 - Smooth and intuitive user interface
 - Support for Android platform through Android Studio
 
+## Screenshots
+
+![Login Screen](screenshots/login.png)
+_Login Screen_
+
+![Signup Screen](screenshots/signup.png)
+_Chat Screen_
 
 ## Getting Started
 
